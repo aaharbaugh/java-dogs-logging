@@ -1,4 +1,4 @@
-package com.lambdaschool.dogsinitial;
+package com.lambdaschool.dogsinitial.model;
 
 import java.util.concurrent.atomic.AtomicLong;
 
